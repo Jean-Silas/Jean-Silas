@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Jean-Silas
+
+I'm a **technical artist** who focuses on **asset pipelines.** 
+
+- 🔭 I’m currently working on: **DCC-integrated USD tooling**
+- 🌱 I’m currently learning: **Performant large-scale terrain generation**
+- 💬 Ask me about: **ArtOps, small-team tooling, UE5 for Archviz, multi-DCC pipeline management, asset linting, etc.**
+- 🍵 Preferred Beverage: **Peppermint Yerba Maté**
 
 <!--
 **Jean-Silas/Jean-Silas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
